@@ -1,4 +1,4 @@
-# 360 Viper Dual NAND
+# Xbox 360 - Viper Dual NAND
 
 ![Internal Memory QSB](https://i.imgur.com/icGctLh.png)
 
